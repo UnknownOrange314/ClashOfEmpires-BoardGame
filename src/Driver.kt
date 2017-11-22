@@ -1,3 +1,3 @@
 fun main(args: Array<String>) {
-    println("Running");
+    println("Hello, world!")
 }
