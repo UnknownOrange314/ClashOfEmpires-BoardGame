@@ -7,10 +7,7 @@ import kotlin.test.assertEquals
 import kotlin.test.assertFalse
 import kotlin.test.assertTrue
 
-
 class TerritoryTest {
-
-    val MockTroop:Troop = Troop();
 
     fun setup(): Territory {
         return Territory();
